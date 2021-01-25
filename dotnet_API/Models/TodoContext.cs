@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using TodoApi.Models;
 
-namespace dotnet_API.Models
+namespace TodoApi.Models
 {
     public class TodoContext : DbContext
     {
