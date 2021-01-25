@@ -1,6 +1,6 @@
 using System;
 
-namespace dotnet_API
+namespace TodoApi
 {
     public class WeatherForecast
     {
